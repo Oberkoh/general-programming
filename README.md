@@ -1,2 +1,3 @@
-# general-programming
-Short Circuit Evaluation, garbage collection, closures, mutable vs immutable objects
+# General Programming
+- Short Circuit Evaluation
+- Garbage collection, Closures, Mutable vs immutable objects
